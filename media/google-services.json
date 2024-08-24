@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "251639309825",
+    "firebase_url": "https://thu-phuong-spa-default-rtdb.firebaseio.com",
+    "project_id": "thu-phuong-spa",
+    "storage_bucket": "thu-phuong-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251639309825:android:d6d787bbb970732ed30200",
+        "android_client_info": {
+          "package_name": "thuphuongspa.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9Q68oCnuWxaxHCWV-t0Gp89_EKo2oeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
